@@ -35,7 +35,7 @@ h2 {
     align-items: center;
     background-color: #92b0e7;
     padding: 20px;
-
+    box-shadow: 0rem 1rem 1rem 1rem rgba(0,0,0,.2);
     border-radius: 10px;
 }
 
@@ -51,7 +51,7 @@ h2 {
     padding: 15px;
     border-radius: 10px;
 
-    box-shadow: .3rem .7rem rgba(0,0,0,.2);
+    box-shadow: 0rem .7rem rgba(0,0,0,.2);
 }
 
 .day, .hour, .minute, .second {
