@@ -10,4 +10,31 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+h2 {
+    font-size: 5rem;
+    font-weight: 700;
+    padding: 2rem;
+}
 
+.coming-soon {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.day, .hour, .minute, .second {
+    font-size: 3rem;
+
+}
+
+img {
+    height: 50vh;
+}
