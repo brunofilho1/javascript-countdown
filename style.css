@@ -6,14 +6,12 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Lato', sans-serif;
-}
-
 h2 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
     padding: 2rem;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
 }
 
 .coming-soon {
@@ -28,11 +26,11 @@ h2 {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 
 .day, .hour, .minute, .second {
     font-size: 3rem;
-
 }
 
 img {
